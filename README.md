@@ -2,8 +2,8 @@
 
 ```go
 
-go build passgen.sh
+go build passgen.go
 
-# GOOS='windows' go build backup.sh
+# GOOS='windows' go build passgen.go
 
 ```
