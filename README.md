@@ -1,8 +1,8 @@
 ## Build script
 
-```bash
+```go
 
-go build backup.sh
+go build passgen.sh
 
 # GOOS='windows' go build backup.sh
 
